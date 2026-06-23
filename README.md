@@ -1,6 +1,6 @@
 # shamir-secret-sharing
 
-# Code Architecture for Shamir's Secret Sharing Educational Tool
+## Code Architecture for Shamir's Secret Sharing Educational Tool
 
 **Author:** Ghadir Alfadhl  
 **Date:** November 26, 2024
